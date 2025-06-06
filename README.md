@@ -1,8 +1,10 @@
 🛒 Online Electronics Store (Full Stack)
 This project is a full-stack implementation of an Online Electronics Store, running as a backend server and a frontend web app. There is user login/authentication support, product listing, add/edit cart (checkout/continue shopping), admin capabilities (add/edit products) and other functionalities.
+
 📁 Project Structure
 I.	oop_server/ - Node.js backend with TypeScript that has domain modelling (business logic), CSV-based persistence, and RESTful API.
 II.	oop_web/ - React frontend app that acts as the UI and interacts with the backend via HTTP, has validation and is reactive.
+
 🚀 How to Run
 From the root of the project.
 Run backend:
