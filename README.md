@@ -5,6 +5,7 @@ This project is a full-stack implementation of an Online Electronics Store, runn
 📁 Project Structure
 
 I.	oop_server/ - Node.js backend with TypeScript that has domain modelling (business logic), CSV-based persistence, and RESTful API.
+
 II.	oop_web/ - React frontend app that acts as the UI and interacts with the backend via HTTP, has validation and is reactive.
 
 🚀 How to Run
