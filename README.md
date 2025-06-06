@@ -14,13 +14,11 @@ From the root of the project.
 Run backend:
 
 cd oop_server
-
 npm run start
  
 Run frontend:
 
 cd oop_web
-
 npm run start
  
 •	Backend will run at: http://localhost:4000
