@@ -1,0 +1,14 @@
+notificationId,userId,type,text,seen,timestamp
+9cecbef0-4737-4d68-98c3-b2688856106f,944656a5-7654-45f8-bf94-deedb4a9em8n,ORDER_PLACED,Your order #5b5da8ea… has been placed successfully.,true,2025-06-04T15:14:52.163Z
+a162a4d4-53f0-4229-a807-cefb6b0075b0,944656a5-7654-45f8-bf94-deedb4a9em8n,PRODUCT_UPDATED,"Product ""MacBook Pro"" (ID: 1) price changed from $1299.99 to $1299.99.",false,2025-06-04T15:55:27.214Z
+ac30c116-9a55-4648-a2a9-f341e29ecde3,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,LOW_STOCK,"Product ""MacBook Pro"" (ID: 1) is low on stock (now: 2).",false,2025-06-04T15:55:27.217Z
+e2a56524-f8e1-41b5-bc73-c7501a04700c,944656a5-7654-45f8-bf94-deedb4a9em8n,PRODUCT_UPDATED,"Product ""MacBook Pro"" (ID: 1) price changed from $1299.99 to $1299.99.",false,2025-06-04T16:05:08.286Z
+ac8e4e64-3398-49fd-b898-40d52d1aea1c,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,LOW_STOCK,"Product ""MacBook Pro"" (ID: 1) is low on stock (now: 3).",false,2025-06-04T16:05:08.297Z
+e4283fad-bea6-4ce1-a86f-34ebf9ac410c,944656a5-7654-45f8-bf94-deedb4a9em8n,PRODUCT_UPDATED,"Product ""apple"" (ID: dd870f3e-b68d-4f04-9cd6-ead44c8a0987) has been removed from the catalog.",false,2025-06-04T16:12:43.353Z
+479ae6d6-45c1-4d2d-9251-8537ed6df4dc,944656a5-7654-45f8-bf94-deedb4a9em8n,PRODUCT_UPDATED,"Product ""apple"" (ID: 59bcd1d1-9cb0-46ee-b94a-850dd148be8f) has been removed from the catalog.",false,2025-06-04T16:12:44.860Z
+eaf968aa-137b-4d28-be6a-b2c8191b9df4,944656a5-7654-45f8-bf94-deedb4a9em8n,PRODUCT_UPDATED,"Product ""ap"" (ID: af1cc4d4-92d1-4093-8a38-31c24f3538de) has been removed from the catalog.",false,2025-06-04T16:12:48.707Z
+b597c4f6-d018-41ab-837d-9d4bd5375148,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,LOW_STOCK,"Product ""MacBook Pro"" (ID: 1) is low on stock (remaining: 2).",false,2025-06-04T22:43:10.492Z
+645e099b-47f8-421b-8733-6c63453791a1,944656a5-7654-45f8-bf94-deedb4a9ec82,ORDER_PLACED,Your order #140353a3… has been placed successfully.,false,2025-06-04T22:43:10.497Z
+0b0a998f-f143-4d07-8524-40e3472e65ea,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,LOW_STOCK,"Product ""MacBook Pro"" (ID: 1) is low on stock (remaining: 1).",false,2025-06-04T23:05:22.273Z
+5d432fc4-7efc-43a3-bbfb-825d7808ff7a,944656a5-7654-45f8-bf94-deedb4a9em8n,ORDER_PLACED,Your order #5c27e7a9… has been placed successfully.,false,2025-06-04T23:05:22.307Z
+177b3d87-c2b8-44b2-b6ce-9803323f7cc7,944656a5-7654-45f8-bf94-deedb4a9em8n,ORDER_PLACED,Your order #9ab1e569… has been placed successfully.,false,2025-06-05T02:13:36.286Z

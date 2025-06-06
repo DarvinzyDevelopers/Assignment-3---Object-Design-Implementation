@@ -1,0 +1,4 @@
+reorderId,productId,stockQuantity,threshold,requestedAt
+b91e79e1-a6e1-4acc-89b1-5219ad33fc69,1,3,5,2025-06-04T16:05:08.299Z
+130c65ab-12d1-4671-8612-ee107e2f8e02,1,2,5,2025-06-04T22:43:10.487Z
+8d87e2a2-f7ae-4fff-a7ef-3c2957f0627f,1,1,5,2025-06-04T23:05:22.264Z

@@ -1,0 +1,10 @@
+auditId,timestamp,adminId,action,targetId,oldValue,newValue
+c54e869c-f1a6-44e2-8959-157839fd9d35,2025-06-03T14:33:56.321Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,CREATE,59bcd1d1-9cb0-46ee-b94a-850dd148be8f,,"{""name"":""apple"",""price"":23,""stockQuantity"":12}"
+8e36a3af-ca74-4e59-8cd2-d06421a67c8e,2025-06-03T15:50:21.773Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,CREATE,af1cc4d4-92d1-4093-8a38-31c24f3538de,,"{""name"":""ap"",""price"":121,""stockQuantity"":12}"
+7b64ba6f-903f-495b-af8d-1fc0430dd0e9,2025-06-04T15:55:27.212Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,UPDATE_PRICE,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,1299.99,1299.99
+2e7fee12-a700-4f24-be44-9da942deb39c,2025-06-04T15:55:27.215Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,UPDATE_STOCK,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,9,2
+e11beaae-3e53-48b3-bc0d-3d5b95025a83,2025-06-04T16:05:08.282Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,UPDATE_PRICE,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,1299.99,1299.99
+2b4b36b1-3541-4ee1-8ec3-54c1a6d4bb49,2025-06-04T16:05:08.294Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,UPDATE_STOCK,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,2,3
+0512fe74-9f23-40d0-bbd3-4c8ef529486d,2025-06-04T16:12:43.341Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,DELETE,dd870f3e-b68d-4f04-9cd6-ead44c8a0987,"{""name"":""apple"",""price"":12,""stockQuantity"":1212}",
+912f1b67-6502-4921-a092-2599c107cab3,2025-06-04T16:12:44.851Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,DELETE,59bcd1d1-9cb0-46ee-b94a-850dd148be8f,"{""name"":""apple"",""price"":23,""stockQuantity"":12}",
+d160f7b3-87b8-4ff2-97d6-703b1883f965,2025-06-04T16:12:48.700Z,51e817d4-1c48-4bb2-99b8-de2b8be16g5h,DELETE,af1cc4d4-92d1-4093-8a38-31c24f3538de,"{""name"":""ap"",""price"":121,""stockQuantity"":12}",

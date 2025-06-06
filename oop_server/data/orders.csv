@@ -1,0 +1,5 @@
+orderId,userId,orderDate,items,totalAmount,status
+5b5da8ea-3a84-43af-90e7-aa305565a1d8,944656a5-7654-45f8-bf94-deedb4a9em8n,2025-06-04T15:14:52.150Z,"[{""productId"":""1"",""quantity"":1,""unitPrice"":1299.99}]",1299.99,PAID
+140353a3-9001-4870-97a3-291daa2c3d2d,944656a5-7654-45f8-bf94-deedb4a9ec82,2025-06-04T22:43:10.495Z,"[{""productId"":""1"",""quantity"":1,""unitPrice"":1299.99}]",1299.99,PAID
+5c27e7a9-fb84-498d-b7f4-fa24d247f4da,944656a5-7654-45f8-bf94-deedb4a9em8n,2025-06-04T23:05:22.294Z,"[{""productId"":""1"",""quantity"":1,""unitPrice"":1299.99},{""productId"":""2"",""quantity"":1,""unitPrice"":999.99}]",2299.98,PAID
+9ab1e569-291f-472e-9459-a72ec2f200ce,944656a5-7654-45f8-bf94-deedb4a9em8n,2025-06-05T02:13:36.283Z,"[{""productId"":""3"",""quantity"":1,""unitPrice"":249.99},{""productId"":""2"",""quantity"":1,""unitPrice"":999.99}]",1249.98,PAID

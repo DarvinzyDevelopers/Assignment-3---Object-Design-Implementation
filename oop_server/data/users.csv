@@ -1,0 +1,5 @@
+id,email,password,role
+51e817d4-1c48-4bb2-99b8-de2b8be16g5h,admin@example.com,$2b$10$P8iCSXxKiK3WWmiqWDfKAeAqMdmuehioHWucFsLs5HNNd6GYpG0w6,admin
+944656a5-7654-45f8-bf94-deedb4a9em8n,user@example.com,$2b$10$iOtpA3p.cuQZiqaXWMwsQO1hn6/YkcEJob9u8.XtfQ.XOyMW06FgW,user
+51e817d4-1c48-4bb2-99b8-de2b8be16f2b,admin2@example.com,$2b$10$ic3Tc2CesQjjSW4c/7ZAguoG4zaEwMVXlZUkUwhqrWj5mkcC9tDGu,user
+944656a5-7654-45f8-bf94-deedb4a9ec82,user2@example.com,$2b$10$W.QNq7bKLzyCHnHdDBazSO7dyfkE5wkbyKfRQilfa8/u7VaCFOxxS,user
